@@ -11,6 +11,8 @@ You will be able to:
 * Define and call an instance method
 * Define and access instance attributes
 
+# Check the index.ipynb file for my workings
+
 ## Defining Classes and Instance Methods
 
 In the cell below define a `Driver` class.
